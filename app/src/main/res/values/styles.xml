@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="Widget.IpOnWidget.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">@color/primaryColor</item>
+    </style>
+
+    <style name="Widget.IpOnWidget.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">@color/primaryColor</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+</resources>

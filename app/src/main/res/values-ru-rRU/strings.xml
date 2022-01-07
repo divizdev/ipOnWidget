@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ipOnWidget</string>
+    <string name="appwidget_text">IP Адрес</string>
+    <string name="add_widget">Добавить виджет</string>
+    <string name="description">Виджет отображает ip-адрес всех интерфейсов</string>
+    <string name="interfaces">Inerfaces: </string>
+    <string name="update">Update</string>
+</resources>

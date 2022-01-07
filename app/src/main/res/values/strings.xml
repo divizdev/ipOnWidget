@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ipOnWidget</string>
+    <string name="appwidget_text">IP address</string>
+    <string name="add_widget">Add widget</string>
+    <string name="description">The widget displays the IP address of all interfaces</string>
+    <string name="interfaces">"Inerfaces: "</string>
+    <string name="update">Update</string>
+
+</resources>
